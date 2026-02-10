@@ -1,6 +1,6 @@
 # About 
 
-_Are credit allocation models discriminatory ? The American experiment _
+_Are credit allocation models discriminatory ? The American experiment_
 
 This is a year-long academic project carried out during the first year of my master's degree, with two other students.
 
